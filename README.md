@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Jisun Lee 👋
 
 ## About Me
 
