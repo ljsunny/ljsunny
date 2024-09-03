@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - **Languages:** Java, SQL, JavaScript
 - **Frameworks:** Spring Boot
-- **Tools:** Git, Docker, Jenkins
+- **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL
 
 ## Connect with Me
