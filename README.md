@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jisun&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljsunny&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ## Contributions
 
-![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jisun&theme=tokyonight)
+![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ljsunny&theme=tokyonight)
 
