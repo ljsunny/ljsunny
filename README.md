@@ -40,11 +40,4 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/jisun-lee-bba451307/)
 - [Personal Website](https://yourwebsite.com)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljsunny&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
-
-## Contributions
-
-![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ljsunny&theme=tokyonight)
 
