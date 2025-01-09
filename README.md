@@ -40,4 +40,5 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/jisun-lee-bba451307/)
 - [Personal Website](https://next-portfolio-peach-seven.vercel.app/)
 
+## Github Stat
 ![Jisun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljsunny&show_icons=true&theme=radical)
