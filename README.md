@@ -46,6 +46,6 @@ With 3+ years of experience across **Spring Boot, Next.js, Python, and Supabase*
 ---
 
 ## 📫 Connect with Me  
-- **LinkedIn:**  
-- **Portfolio:**  
+- **LinkedIn:**  https://www.linkedin.com/in/jisun-lee-bba451307/
+- **Portfolio:**  https://www.jsun-hobby.com/
 
