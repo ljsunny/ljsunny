@@ -1,42 +1,51 @@
-<!--**ljsunny/ljsunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Jisun Lee 👋  
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me  
+I'm a **Full Stack Developer** based in Vancouver with a strong focus on **backend engineering** and product-oriented development.  
+I enjoy designing clean backend architectures, working with relational databases, and building real services from idea to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello, I'm Jisun Lee 👋
+With 3+ years of experience across **Spring Boot, Next.js, Python, and Supabase**, I bring a balanced mix of backend strength, frontend capability, and strong communication with design and planning teams.
 
-## About Me
+---
 
-- 🌟 **Backend Developer** with experience in **Spring Boot** and **Database Management**.
-- 💻 **Skilled** in developing and maintaining **CMS websites** and handling **system maintenance**.
-- 🤝 **Collaborative** team player, working effectively with designers and project managers.
+## 🛠 Tech Stack  
 
+### Backend  
+- Java · Spring Boot  
+- Python · Django · FastAPI  
+- Node.js (Express / NestJS)  
+- REST API design & authentication  
+- MySQL · PostgreSQL · **Supabase**
 
-## Skills
+### Frontend  
+- Next.js · React  
+- JavaScript · HTML5 · CSS3  
+- TailwindCSS · ShadCN/UI
 
+### Platforms & Tools  
+- **Supabase (Auth, Storage, PostgreSQL, Edge Functions)**  
+- AWS EC2 · Render  
+- Git / GitHub  
+- Docker (basic)
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0B4B33?style=flat-square&logo=django&logoColor=white)
+---
 
-## Connect with Me
+## 🌱 Currently Learning  
+- Scalable backend system design  
+- Supabase-powered MVP development  
+- React Native for mobile development  
+- Building monetizable apps & side projects
 
-- [LinkedIn](https://www.linkedin.com/in/jisun-lee-bba451307/)
-- [Personal Website](https://next-portfolio-peach-seven.vercel.app/)
+---
+
+## 🤝 Collaboration Style  
+- Clear communicator between designers, planners, and developers  
+- Fast iteration, clean code structure, organized documentation  
+- Startup-friendly: can turn a vague concept into a working prototype quickly
+
+---
+
+## 📫 Connect with Me  
+- **LinkedIn:**  
+- **Portfolio:**  
 
