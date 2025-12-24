@@ -13,7 +13,6 @@ With 3+ years of experience across **Spring Boot, Next.js, Python, and Supabase*
 ### Backend  
 - Java · Spring Boot  
 - Python · Django · FastAPI  
-- Node.js (Express / NestJS)  
 - REST API design & authentication  
 - MySQL · PostgreSQL · **Supabase**
 
